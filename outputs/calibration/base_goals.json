@@ -1,0 +1,8 @@
+{
+  "csvPath": "src/data/processed/matches_clean.csv",
+  "minYear": 2000,
+  "nMatches": 25347,
+  "totalGoalsPerMatch": 2.755474,
+  "baseGoals": 1.377737,
+  "baseGoalsRounded": 1.378
+}

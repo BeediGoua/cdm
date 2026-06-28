@@ -1,0 +1,3 @@
+# Packages recommandés pour le pipeline d'acquisition et l'import SQLite.
+# Python 3.10+ est recommandé.
+requests>=2.31.0

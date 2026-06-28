@@ -1,0 +1,447 @@
+{
+  "snapshotId": "v1_pre_tournament_20260614T082421z",
+  "modelVersion": "V1",
+  "state": "pre_tournament",
+  "nSimulations": 10,
+  "baseGoals": 1.377737,
+  "scale": 600.0,
+  "createdAt": "2026-06-14T08:24:21+00:00",
+  "metadata": {
+    "elapsedSeconds": 0.18,
+    "nTeams": 48
+  },
+  "results": {
+    "mex": {
+      "name": "Mexico",
+      "roundOf32": 0.8,
+      "roundOf16": 0.5,
+      "quarterFinal": 0.1,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "rsa": {
+      "name": "South Africa",
+      "roundOf32": 0.8,
+      "roundOf16": 0.3,
+      "quarterFinal": 0.1,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "kor": {
+      "name": "Korea Republic",
+      "roundOf32": 0.6,
+      "roundOf16": 0.1,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "cze": {
+      "name": "Czechia",
+      "roundOf32": 0.3,
+      "roundOf16": 0.2,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "can": {
+      "name": "Canada",
+      "roundOf32": 0.5,
+      "roundOf16": 0.2,
+      "quarterFinal": 0.1,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "bih": {
+      "name": "Bosnia and Herzegovina",
+      "roundOf32": 0.8,
+      "roundOf16": 0.2,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "qat": {
+      "name": "Qatar",
+      "roundOf32": 0.4,
+      "roundOf16": 0.2,
+      "quarterFinal": 0.1,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "sui": {
+      "name": "Switzerland",
+      "roundOf32": 0.8,
+      "roundOf16": 0.6,
+      "quarterFinal": 0.1,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "bra": {
+      "name": "Brazil",
+      "roundOf32": 1.0,
+      "roundOf16": 0.7,
+      "quarterFinal": 0.5,
+      "semiFinal": 0.4,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "mar": {
+      "name": "Morocco",
+      "roundOf32": 1.0,
+      "roundOf16": 0.2,
+      "quarterFinal": 0.2,
+      "semiFinal": 0.1,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "hai": {
+      "name": "Haiti",
+      "roundOf32": 0.0,
+      "roundOf16": 0.0,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "sco": {
+      "name": "Scotland",
+      "roundOf32": 0.2,
+      "roundOf16": 0.1,
+      "quarterFinal": 0.1,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "usa": {
+      "name": "USA",
+      "roundOf32": 0.9,
+      "roundOf16": 0.7,
+      "quarterFinal": 0.3,
+      "semiFinal": 0.1,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "par": {
+      "name": "Paraguay",
+      "roundOf32": 0.5,
+      "roundOf16": 0.2,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "aus": {
+      "name": "Australia",
+      "roundOf32": 0.7,
+      "roundOf16": 0.1,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "tur": {
+      "name": "Türkiye",
+      "roundOf32": 0.7,
+      "roundOf16": 0.3,
+      "quarterFinal": 0.1,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "ger": {
+      "name": "Germany",
+      "roundOf32": 1.0,
+      "roundOf16": 0.5,
+      "quarterFinal": 0.2,
+      "semiFinal": 0.2,
+      "final": 0.1,
+      "champion": 0.0
+    },
+    "cuw": {
+      "name": "Curaçao",
+      "roundOf32": 0.1,
+      "roundOf16": 0.0,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "civ": {
+      "name": "Côte d'Ivoire",
+      "roundOf32": 0.5,
+      "roundOf16": 0.2,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "ecu": {
+      "name": "Ecuador",
+      "roundOf32": 1.0,
+      "roundOf16": 0.5,
+      "quarterFinal": 0.2,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "ned": {
+      "name": "Netherlands",
+      "roundOf32": 0.9,
+      "roundOf16": 0.4,
+      "quarterFinal": 0.1,
+      "semiFinal": 0.1,
+      "final": 0.1,
+      "champion": 0.1
+    },
+    "jpn": {
+      "name": "Japan",
+      "roundOf32": 0.9,
+      "roundOf16": 0.4,
+      "quarterFinal": 0.4,
+      "semiFinal": 0.2,
+      "final": 0.2,
+      "champion": 0.1
+    },
+    "swe": {
+      "name": "Sweden",
+      "roundOf32": 0.8,
+      "roundOf16": 0.5,
+      "quarterFinal": 0.3,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "tun": {
+      "name": "Tunisia",
+      "roundOf32": 0.2,
+      "roundOf16": 0.2,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "bel": {
+      "name": "Belgium",
+      "roundOf32": 1.0,
+      "roundOf16": 0.5,
+      "quarterFinal": 0.5,
+      "semiFinal": 0.3,
+      "final": 0.2,
+      "champion": 0.1
+    },
+    "egy": {
+      "name": "Egypt",
+      "roundOf32": 0.7,
+      "roundOf16": 0.4,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "irn": {
+      "name": "IR Iran",
+      "roundOf32": 0.9,
+      "roundOf16": 0.5,
+      "quarterFinal": 0.4,
+      "semiFinal": 0.1,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "nzl": {
+      "name": "New Zealand",
+      "roundOf32": 0.3,
+      "roundOf16": 0.2,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "esp": {
+      "name": "Spain",
+      "roundOf32": 1.0,
+      "roundOf16": 0.8,
+      "quarterFinal": 0.7,
+      "semiFinal": 0.4,
+      "final": 0.3,
+      "champion": 0.2
+    },
+    "cpv": {
+      "name": "Cabo Verde",
+      "roundOf32": 0.4,
+      "roundOf16": 0.0,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "ksa": {
+      "name": "Saudi Arabia",
+      "roundOf32": 0.3,
+      "roundOf16": 0.0,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "uru": {
+      "name": "Uruguay",
+      "roundOf32": 1.0,
+      "roundOf16": 0.5,
+      "quarterFinal": 0.3,
+      "semiFinal": 0.1,
+      "final": 0.1,
+      "champion": 0.1
+    },
+    "fra": {
+      "name": "France",
+      "roundOf32": 1.0,
+      "roundOf16": 0.7,
+      "quarterFinal": 0.4,
+      "semiFinal": 0.4,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "sen": {
+      "name": "Senegal",
+      "roundOf32": 0.7,
+      "roundOf16": 0.6,
+      "quarterFinal": 0.4,
+      "semiFinal": 0.1,
+      "final": 0.1,
+      "champion": 0.0
+    },
+    "irq": {
+      "name": "Iraq",
+      "roundOf32": 0.0,
+      "roundOf16": 0.0,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "nor": {
+      "name": "Norway",
+      "roundOf32": 1.0,
+      "roundOf16": 0.4,
+      "quarterFinal": 0.1,
+      "semiFinal": 0.1,
+      "final": 0.1,
+      "champion": 0.1
+    },
+    "arg": {
+      "name": "Argentina",
+      "roundOf32": 1.0,
+      "roundOf16": 0.7,
+      "quarterFinal": 0.7,
+      "semiFinal": 0.6,
+      "final": 0.6,
+      "champion": 0.2
+    },
+    "alg": {
+      "name": "Algeria",
+      "roundOf32": 0.7,
+      "roundOf16": 0.2,
+      "quarterFinal": 0.2,
+      "semiFinal": 0.1,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "aut": {
+      "name": "Austria",
+      "roundOf32": 0.9,
+      "roundOf16": 0.2,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "jor": {
+      "name": "Jordan",
+      "roundOf32": 0.1,
+      "roundOf16": 0.0,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "por": {
+      "name": "Portugal",
+      "roundOf32": 1.0,
+      "roundOf16": 0.6,
+      "quarterFinal": 0.5,
+      "semiFinal": 0.3,
+      "final": 0.1,
+      "champion": 0.1
+    },
+    "cod": {
+      "name": "Congo DR",
+      "roundOf32": 0.2,
+      "roundOf16": 0.1,
+      "quarterFinal": 0.1,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "uzb": {
+      "name": "Uzbekistan",
+      "roundOf32": 0.5,
+      "roundOf16": 0.2,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "col": {
+      "name": "Colombia",
+      "roundOf32": 1.0,
+      "roundOf16": 0.6,
+      "quarterFinal": 0.1,
+      "semiFinal": 0.1,
+      "final": 0.1,
+      "champion": 0.0
+    },
+    "eng": {
+      "name": "England",
+      "roundOf32": 1.0,
+      "roundOf16": 0.7,
+      "quarterFinal": 0.5,
+      "semiFinal": 0.3,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "cro": {
+      "name": "Croatia",
+      "roundOf32": 1.0,
+      "roundOf16": 0.8,
+      "quarterFinal": 0.2,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "gha": {
+      "name": "Ghana",
+      "roundOf32": 0.4,
+      "roundOf16": 0.0,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    },
+    "pan": {
+      "name": "Panama",
+      "roundOf32": 0.5,
+      "roundOf16": 0.0,
+      "quarterFinal": 0.0,
+      "semiFinal": 0.0,
+      "final": 0.0,
+      "champion": 0.0
+    }
+  }
+}

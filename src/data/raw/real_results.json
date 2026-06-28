@@ -1,0 +1,587 @@
+{
+  "groups": {
+    "fra_sen": {
+      "homeTeamId": "fra",
+      "awayTeamId": "sen",
+      "homeGoals": 0,
+      "awayGoals": 5
+    },
+    "G001": {
+      "matchId": "G001",
+      "homeTeamId": "mex",
+      "awayTeamId": "rsa",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G002": {
+      "matchId": "G002",
+      "homeTeamId": "kor",
+      "awayTeamId": "cze",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G007": {
+      "matchId": "G007",
+      "homeTeamId": "can",
+      "awayTeamId": "bih",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G008": {
+      "matchId": "G008",
+      "homeTeamId": "qat",
+      "awayTeamId": "sui",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G013": {
+      "matchId": "G013",
+      "homeTeamId": "bra",
+      "awayTeamId": "mar",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G014": {
+      "matchId": "G014",
+      "homeTeamId": "hai",
+      "awayTeamId": "sco",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G019": {
+      "matchId": "G019",
+      "homeTeamId": "usa",
+      "awayTeamId": "par",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G020": {
+      "matchId": "G020",
+      "homeTeamId": "aus",
+      "awayTeamId": "tur",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G025": {
+      "matchId": "G025",
+      "homeTeamId": "ger",
+      "awayTeamId": "cuw",
+      "homeGoals": 7,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G026": {
+      "matchId": "G026",
+      "homeTeamId": "civ",
+      "awayTeamId": "ecu",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G031": {
+      "matchId": "G031",
+      "homeTeamId": "ned",
+      "awayTeamId": "jpn",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "status": "played"
+    },
+    "G032": {
+      "matchId": "G032",
+      "homeTeamId": "swe",
+      "awayTeamId": "tun",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G037": {
+      "matchId": "G037",
+      "homeTeamId": "bel",
+      "awayTeamId": "egy",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G038": {
+      "matchId": "G038",
+      "homeTeamId": "irn",
+      "awayTeamId": "nzl",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "status": "played"
+    },
+    "G043": {
+      "matchId": "G043",
+      "homeTeamId": "esp",
+      "awayTeamId": "cpv",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G044": {
+      "matchId": "G044",
+      "homeTeamId": "ksa",
+      "awayTeamId": "uru",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G003": {
+      "matchId": "G003",
+      "homeTeamId": "cze",
+      "awayTeamId": "rsa",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G004": {
+      "matchId": "G004",
+      "homeTeamId": "mex",
+      "awayTeamId": "kor",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G005": {
+      "matchId": "G005",
+      "homeTeamId": "cze",
+      "awayTeamId": "mex",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "status": "played"
+    },
+    "G006": {
+      "matchId": "G006",
+      "homeTeamId": "rsa",
+      "awayTeamId": "kor",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G009": {
+      "matchId": "G009",
+      "homeTeamId": "sui",
+      "awayTeamId": "bih",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G010": {
+      "matchId": "G010",
+      "homeTeamId": "can",
+      "awayTeamId": "qat",
+      "homeGoals": 6,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G015": {
+      "matchId": "G015",
+      "homeTeamId": "sco",
+      "awayTeamId": "mar",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G016": {
+      "matchId": "G016",
+      "homeTeamId": "bra",
+      "awayTeamId": "hai",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G021": {
+      "matchId": "G021",
+      "homeTeamId": "usa",
+      "awayTeamId": "aus",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G022": {
+      "matchId": "G022",
+      "homeTeamId": "tur",
+      "awayTeamId": "par",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G027": {
+      "matchId": "G027",
+      "homeTeamId": "ger",
+      "awayTeamId": "civ",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G028": {
+      "matchId": "G028",
+      "homeTeamId": "ecu",
+      "awayTeamId": "cuw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G033": {
+      "matchId": "G033",
+      "homeTeamId": "ned",
+      "awayTeamId": "swe",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G034": {
+      "matchId": "G034",
+      "homeTeamId": "tun",
+      "awayTeamId": "jpn",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "status": "played"
+    },
+    "G039": {
+      "matchId": "G039",
+      "homeTeamId": "bel",
+      "awayTeamId": "irn",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G040": {
+      "matchId": "G040",
+      "homeTeamId": "nzl",
+      "awayTeamId": "egy",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "status": "played"
+    },
+    "G045": {
+      "matchId": "G045",
+      "homeTeamId": "esp",
+      "awayTeamId": "ksa",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G046": {
+      "matchId": "G046",
+      "homeTeamId": "uru",
+      "awayTeamId": "cpv",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "status": "played"
+    },
+    "G049": {
+      "matchId": "G049",
+      "homeTeamId": "fra",
+      "awayTeamId": "sen",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G050": {
+      "matchId": "G050",
+      "homeTeamId": "irq",
+      "awayTeamId": "nor",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "status": "played"
+    },
+    "G051": {
+      "matchId": "G051",
+      "homeTeamId": "fra",
+      "awayTeamId": "irq",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G052": {
+      "matchId": "G052",
+      "homeTeamId": "nor",
+      "awayTeamId": "sen",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "status": "played"
+    },
+    "G055": {
+      "matchId": "G055",
+      "homeTeamId": "arg",
+      "awayTeamId": "alg",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G056": {
+      "matchId": "G056",
+      "homeTeamId": "aut",
+      "awayTeamId": "jor",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G057": {
+      "matchId": "G057",
+      "homeTeamId": "arg",
+      "awayTeamId": "aut",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G058": {
+      "matchId": "G058",
+      "homeTeamId": "jor",
+      "awayTeamId": "alg",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "status": "played"
+    },
+    "G061": {
+      "matchId": "G061",
+      "homeTeamId": "por",
+      "awayTeamId": "cod",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G062": {
+      "matchId": "G062",
+      "homeTeamId": "uzb",
+      "awayTeamId": "col",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "status": "played"
+    },
+    "G063": {
+      "matchId": "G063",
+      "homeTeamId": "por",
+      "awayTeamId": "uzb",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G064": {
+      "matchId": "G064",
+      "homeTeamId": "col",
+      "awayTeamId": "cod",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G067": {
+      "matchId": "G067",
+      "homeTeamId": "eng",
+      "awayTeamId": "cro",
+      "homeGoals": 4,
+      "awayGoals": 2,
+      "status": "played"
+    },
+    "G068": {
+      "matchId": "G068",
+      "homeTeamId": "gha",
+      "awayTeamId": "pan",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G069": {
+      "matchId": "G069",
+      "homeTeamId": "eng",
+      "awayTeamId": "gha",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G070": {
+      "matchId": "G070",
+      "homeTeamId": "pan",
+      "awayTeamId": "cro",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G011": {
+      "matchId": "G011",
+      "homeTeamId": "sui",
+      "awayTeamId": "can",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G012": {
+      "matchId": "G012",
+      "homeTeamId": "bih",
+      "awayTeamId": "qat",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G017": {
+      "matchId": "G017",
+      "homeTeamId": "sco",
+      "awayTeamId": "bra",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "status": "played"
+    },
+    "G018": {
+      "matchId": "G018",
+      "homeTeamId": "mar",
+      "awayTeamId": "hai",
+      "homeGoals": 4,
+      "awayGoals": 2,
+      "status": "played"
+    },
+    "G023": {
+      "matchId": "G023",
+      "homeTeamId": "tur",
+      "awayTeamId": "usa",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "status": "played"
+    },
+    "G024": {
+      "matchId": "G024",
+      "homeTeamId": "par",
+      "awayTeamId": "aus",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G029": {
+      "matchId": "G029",
+      "homeTeamId": "cuw",
+      "awayTeamId": "civ",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "status": "played"
+    },
+    "G030": {
+      "matchId": "G030",
+      "homeTeamId": "ecu",
+      "awayTeamId": "ger",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G035": {
+      "matchId": "G035",
+      "homeTeamId": "jpn",
+      "awayTeamId": "swe",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G036": {
+      "matchId": "G036",
+      "homeTeamId": "tun",
+      "awayTeamId": "ned",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "status": "played"
+    },
+    "G041": {
+      "matchId": "G041",
+      "homeTeamId": "egy",
+      "awayTeamId": "irn",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G042": {
+      "matchId": "G042",
+      "homeTeamId": "nzl",
+      "awayTeamId": "bel",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "status": "played"
+    },
+    "G047": {
+      "matchId": "G047",
+      "homeTeamId": "cpv",
+      "awayTeamId": "ksa",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G048": {
+      "matchId": "G048",
+      "homeTeamId": "uru",
+      "awayTeamId": "esp",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G053": {
+      "matchId": "G053",
+      "homeTeamId": "nor",
+      "awayTeamId": "fra",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "status": "played"
+    },
+    "G054": {
+      "matchId": "G054",
+      "homeTeamId": "sen",
+      "awayTeamId": "irq",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G059": {
+      "matchId": "G059",
+      "homeTeamId": "alg",
+      "awayTeamId": "aut",
+      "homeGoals": 3,
+      "awayGoals": 3,
+      "status": "played"
+    },
+    "G060": {
+      "matchId": "G060",
+      "homeTeamId": "jor",
+      "awayTeamId": "arg",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "status": "played"
+    },
+    "G065": {
+      "matchId": "G065",
+      "homeTeamId": "col",
+      "awayTeamId": "por",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "status": "played"
+    },
+    "G066": {
+      "matchId": "G066",
+      "homeTeamId": "cod",
+      "awayTeamId": "uzb",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "status": "played"
+    },
+    "G071": {
+      "matchId": "G071",
+      "homeTeamId": "pan",
+      "awayTeamId": "eng",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "status": "played"
+    },
+    "G072": {
+      "matchId": "G072",
+      "homeTeamId": "cro",
+      "awayTeamId": "gha",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "status": "played"
+    }
+  },
+  "knockouts": {}
+}
