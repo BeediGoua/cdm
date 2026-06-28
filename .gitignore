@@ -47,6 +47,11 @@ Thumbs.db
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Keep the remarks folder and project notes tracked
-!remarques/
-!remarques/**
+# Fichiers de réflexion et de conception personnels
+brouillon/
+remarques/
+idee.md
+context.md
+Evolution_Modeles*.md
+Whitepaper_CDM2026.md
+Mathematical_Foundations.md
